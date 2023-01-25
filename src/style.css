@@ -43,7 +43,7 @@ line-height: 1.4;
 .btn-branding {
     background-color: pink;
     border-radius: 4px;
-    color: white;
+    color: black;
     font-size: 18px;
     line-height: 27px;
     padding: 15px 30px;
@@ -61,15 +61,18 @@ line-height: 1.4;
 }
 
 @media (max-width:900px) {
-    h1 {
-        font-size: 44px;
+   .hero h1 {
+        font-size: 48px;
         line-height: 2;
     }
-    h2 {
+   .hero h2 {
         font-size: 44px;
     }
     .hero {
         padding: 80px 20px;
+    }
+    h2 {
+        font-size: 44px;
     }
     .project-description {
         padding: 0;
