@@ -111,5 +111,6 @@ line-height: 1.5;
     }
     .content-container {
         padding: 0;
+        text-align: center;
     }
 }
