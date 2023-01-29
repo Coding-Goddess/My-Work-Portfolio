@@ -64,6 +64,9 @@ line-height: 1.5;
 .content p {
     font-size: 14px;
 }
+.contact-page {
+    text-align: center;
+}
 .btn-branding {
     background-color: pink;
     border-radius: 4px;
